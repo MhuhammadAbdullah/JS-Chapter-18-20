@@ -75,11 +75,11 @@
 
 // Question: 07
 
-// let bakeryItems = ["cake", "apple pie", "cookie", "chips", "patties"];
+// var bakeryItems = ["cake", "apple pie", "cookie", "chips", "patties"];
 
-// let userInput = prompt("Welcome to ABC Bakery. What do you want to order sir/ma'am?").toLowerCase();
+// var userInput = prompt("Welcome to ABC Bakery. What do you want to order sir/ma'am?").toLowerCase();
 
-// let itemIndex = bakeryItems.indexOf(userInput);
+// var itemIndex = bakeryItems.indexOf(userInput);
 
 // if (itemIndex !== -1) {
 //     alert(userInput + " is available at index " + itemIndex + " in our bakery");
@@ -89,16 +89,16 @@
 
 // Question: 08
 
-// let A = [24, 53, 78, 91, 12];
-// let largest = Math.max(...A);
+// var A = [24, 53, 78, 91, 12];
+// var largest = Math.max(...A);
 
 // console.log("Array items: " + A);
 // console.log("The largest number is " + largest);
 
 // Question: 09
 
-// let A = [24, 53, 78, 91, 12];
-// let smallest = Math.min(...A);
+// var A = [24, 53, 78, 91, 12];
+// var smallest = Math.min(...A);
 
 // console.log("Array items: " + A);
 // console.log("The smallest number is " + smallest);
